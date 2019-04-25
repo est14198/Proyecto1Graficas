@@ -1,0 +1,111 @@
+# Blender MTL File: 'IceKirby.blend'
+# Material Count: 10
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.143090 0.143090 0.143090
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Ice Kirby Trophy\Icekirby.brres\PlyKirby5KEye1b.png
+
+newmtl Material.001_PlyKirby5KSkinb.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.143090 0.143090 0.143090
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Ice Kirby Trophy\Icekirby.brres\PlyKirby5KSkinb.png
+
+newmtl Material.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.004484 0.004484 0.004484
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Ice Kirby Trophy\Icekirby.brres\HrKirbyIce1.png
+
+newmtl Material.003_HrKirbyIce5.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.004484 0.004484 0.004484
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Ice Kirby Trophy\Icekirby.brres\HrKirbyIce5.png
+
+newmtl Material.003_ItmCommonFrzB0.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.004484 0.004484 0.004484
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Ice Kirby Trophy\Icekirby.brres\ItmCommonFrzB0.png
+
+newmtl Material.003_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.004484 0.004484 0.004484
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000825 0.000825 0.000825
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Ice Kirby Trophy\Icekirby.brres\PlyKirby5KMouth.png
+
+newmtl Material.004_PlyKirby5KFootb.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000825 0.000825 0.000825
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Ice Kirby Trophy\Icekirby.brres\PlyKirby5KFootb.png
+
+newmtl Material.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.130114 0.130114 0.130114
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Ice Kirby Trophy\Icekirby.brres\HrKirbyIce5.png
+
+newmtl Material.005_ItmCommonFrzB0.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.130114 0.130114 0.130114
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Ice Kirby Trophy\Icekirby.brres\ItmCommonFrzB0.png

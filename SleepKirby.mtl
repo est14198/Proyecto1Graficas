@@ -1,0 +1,67 @@
+# Blender MTL File: 'SleepKirby.blend'
+# Material Count: 6
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.205475 0.205475
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Sleep Kirby Trophy\PlyKirby5KMouth.png
+
+newmtl Material.001_PlyKirby5KEye.3.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.205475 0.205475
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Sleep Kirby Trophy\PlyKirby5KEye.3.png
+
+newmtl Material.001_PlyKirby5KSkin.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.205475 0.205475
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Sleep Kirby Trophy\PlyKirby5KSkin.png
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.000506 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Sleep Kirby Trophy\PlyKirby5KFoot.png
+
+newmtl Material.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.004382 0.230637 0.005015
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Sleep Kirby Trophy\HrKirbySleepHat.png
+
+newmtl Material.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

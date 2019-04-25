@@ -1,0 +1,89 @@
+# Blender MTL File: 'WingKirby.blend'
+# Material Count: 8
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.207838 0.207838 0.207838
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Wing Kirby Trophy\Wingkirby.brres\WingkirbyEye.png
+
+newmtl Material.001_PlyKirby5KMouth.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.207838 0.207838 0.207838
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Wing Kirby Trophy\Wingkirby.brres\PlyKirby5KMouth.png
+
+newmtl Material.001_PlyKirby5KSkin.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.207838 0.207838 0.207838
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Wing Kirby Trophy\Wingkirby.brres\PlyKirby5KSkin.png
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.039639 0.039639 0.039639
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Wing Kirby Trophy\Wingkirby.brres\HrKirbyWingHat.png
+
+newmtl Material.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Wing Kirby Trophy\Wingkirby.brres\PlyKirby5KFoot.png
+
+newmtl Material.003_HrKirbyWing3.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Wing Kirby Trophy\Wingkirby.brres\HrKirbyWing3.png
+
+newmtl Material.003_HrKirbyWingHat.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wii - Super Smash Bros Brawl - Wing Kirby Trophy\Wingkirby.brres\HrKirbyWingHat.png
+
+newmtl Material.003_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
